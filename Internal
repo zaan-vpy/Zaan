@@ -1,7 +1,7 @@
 API_ID=12987288
 API_HASH=a05fd1ecb5651c3cc64e847c91f8765f
 BOT_TOKEN=5654679144:AAH09eLCjlqaaSzu5rpIZurj5EV2VUm2D2Q
-MONGO_DB_URI=mongodb+srv://erich:erich@erich.tjceawh.mongodb.net/?retryWrites=true&w=majority
+MONGO_DB_URI=mongodb+srv://galaxina:galaxina@galaxina.ejvfqm7.mongodb.net/?retryWrites=true&w=majority
 OWNER_ID=5428286665
 DURATION_LIMIT=1200
 LOG_GROUP_ID=-1001692984267
